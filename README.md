@@ -66,15 +66,14 @@
 
 ## 🚀 Featured Projects:
 | Project | Description |
-|---------|------------|
+|---------|-------------|
+| 📝 **[Quiz App](https://github.com/rohitbjadhav03/quiz-app)** | Interactive quiz app with **timer, score tracking, and responsive UI** built using **HTML, CSS, JS** |
 | 🏋️ **[Pande Fitness Hub](https://github.com/rohitbjadhav03/Gym-Landing-Page)** | Responsive multi-page gym website built with **HTML, CSS, JS** |
 
----
 
-## 😂 Random Dev Joke:
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
+
 
 ## ✨ Fun Quote:
 *"Push yourself, because no one else is going to do it for you."*
