@@ -54,8 +54,11 @@
 ## 🚀 Featured Projects:
 | Project | Description |
 |---------|-------------|
+| 🎮 **[Tic-Tac-Toe Game](https://github.com/rohitbjadhav03/Tic-Tac-Toe-Game)** | Classic **Tic-Tac-Toe game** with **two-player mode, win/draw detection, reset option, and sound effects** built using **HTML, CSS, JS** |
 | 📝 **[Quiz App](https://github.com/rohitbjadhav03/quiz-app)** | Interactive quiz app with **timer, score tracking, and responsive UI** built using **HTML, CSS, JS** |
 | 🏋️ **[Pande Fitness Hub](https://github.com/rohitbjadhav03/Gym-Landing-Page)** | Responsive multi-page gym website built with **HTML, CSS, JS** |
+
+
 
 
 
