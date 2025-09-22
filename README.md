@@ -3,20 +3,20 @@
 </h1>
 
 <p align="center">
-  <b>Web Developer | Tech Explorer | Fitness Enthusiast</b>
+  <b>Full Stack Developer | MERN Enthusiast </b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&width=500&lines=Welcome+to+my+GitHub!;I+build+cool+web+projects;I+love+JavaScript+%26+React;Always+learning+new+things!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70000&center=true&width=500&lines=Welcome+to+my+GitHub!;I+build+cool+web+apps;Exploring+MERN+Stack;Always+learning+new+things!">
 </p>
 
 ---
 
 ## 🔥 About Me:
-- 🌱 Currently learning **React.js** & **Modern UI Design**
-- 💻 Building cool **Web Apps** using **HTML, CSS, JavaScript**
-- 🧠 Exploring **Open Source** contributions 
-- ⚡ Fun fact: I never skip **Leg Day** 😉
+- 🌱 Currently learning **React.js, Redux & Advanced UI/UX**
+- 💻 Building **Full Stack MERN Projects** like **Travel Apps**
+- 🧠 Exploring **Open Source Contributions**
+- 💪 **Discipline** and **Consistency** are my two biggest weapons.
 
 ---
 
@@ -26,6 +26,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -37,11 +40,22 @@
 </p>
 
 <p align="center">
-  🚀 Building awesome Web Projects using HTML, CSS, JavaScript, and React  
+  🚀 Building **Wanderlust Travel App** using MERN Stack  
 </p>
 <p align="center">
-  🔍 Exploring UI Design & Frontend Animations
+  🔍 Implementing **location-based listings, reviews, cloud image upload, and interactive UI**
 </p>
+
+---
+
+
+## 🚀 Featured Projects:
+| Project | Description |
+|---------|-------------|
+| 🏖️ **[Wanderlust Travel App](https://wanderlust-travel-app-bhl9.onrender.com/listings)** | Full Stack **Travel Listing App** built with **MongoDB, Express, React, Node.js, Bootstrap**. Features include **user authentication, image upload, reviews, interactive maps, and responsive UI**. |
+| 🎮 **[Tic-Tac-Toe Game](https://github.com/rohitbjadhav03/Tic-Tac-Toe-Game)** | Classic **Tic-Tac-Toe game** with **two-player mode, win/draw detection, reset option, and sound effects** built using **HTML, CSS, JS** |
+| 🧮 **[Calculator App](https://github.com/rohitbjadhav03/Calculator-App)** | Interactive **calculator** with basic operations, instant results, and responsive design |
+| 📝 **[Quiz App](https://github.com/rohitbjadhav03/quiz-app)** | **Quiz app** with timer, score tracking, and responsive UI |
 
 ---
 
@@ -51,18 +65,8 @@
 
 ---
 
-## 🚀 Featured Projects:
-| Project | Description |
-|---------|-------------|
-| 🎮 **[Tic-Tac-Toe Game](https://github.com/rohitbjadhav03/Tic-Tac-Toe-Game)** | Classic **Tic-Tac-Toe game** with **two-player mode, win/draw detection, reset option, and sound effects** built using **HTML, CSS, JS** |
-| 🧮 **[Calculator App](https://github.com/rohitbjadhav03/Calculator-App)** | A clean and interactive **calculator** with basic operations, instant results, and responsive design built using **HTML, CSS, JS** |
-| 📝 **[Quiz App](https://github.com/rohitbjadhav03/quiz-app)** | Interactive **quiz application** with **timer, score tracking, and responsive UI** built using **HTML, CSS, JS** |
-| 🏋️ **[Pande Fitness Hub](https://github.com/rohitbjadhav03/Gym-Landing-Page)** | Responsive **multi-page gym website** built with **HTML, CSS, JS** |
-
----
-
 ## ✨ Fun Quote:
-*"Push yourself, because no one else is going to do it for you."*
+*"Travel far, code often, and never stop exploring."*
 
 ---
 
